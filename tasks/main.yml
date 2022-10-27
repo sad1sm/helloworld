@@ -1,0 +1,4 @@
+---
+# tasks file for helloworld
+- name: Say Hello to World
+  shell: echo "Hello World!"
